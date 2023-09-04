@@ -1,0 +1,2 @@
+INSERT iNTO animal (nome_provisorio, idade_estimada, raca, data_entrada, condicoes_chegada, nome_recebedor, porte, tipo_animal)
+VALUES ('Cachorrinho da Ebac', 5, 'SRD', current_date, 'Bem pulguneto', 'Cleber', 'Pequeno', 'cachorro');
